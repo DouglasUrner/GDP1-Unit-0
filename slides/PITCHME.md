@@ -1,5 +1,8 @@
 ## Introductions
 
+* Who am I?
+* What's this class about?
+
 Note:
 
 ---
@@ -14,6 +17,10 @@ Note:
 
 Note:
 
++++
+
+## For sale, baby shoes. Never worn.
+
 ---
 
 ## Game Concept
@@ -22,7 +29,7 @@ Note:
 
 ---
 
-## What Is Design
+## What Is Design?
 
 Note:
 
