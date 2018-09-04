@@ -1,0 +1,9 @@
+remote_theme: douglasurner/canvas
+
+# If true, a checkbox is added to the body of summary tags. The checkbox is saved (not implemented yet)
+# between sessions and means whatever the user wants it to mean.
+checkbox_on_summaries: true
+
+markdown: kramdown
+kramdown:
+  parse_block_html: true
