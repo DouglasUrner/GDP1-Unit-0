@@ -1,12 +1,12 @@
 ## Please Find Your Seat
-@size[1m](
+
 | | | | | | | |
 ---------|---------|--------|----------|-------|----------|----------|-------
-Dylan B. | Caleb   | Austin | Jin      | Logan | Benjimyn | Dylan L. | Andre
-Luc      | Junior  | Cody   | Kaden    | Seth  | Trey     | Daniel   | Robert
+@size[1m](Dylan B. | Caleb   | Austin | Jin      | Logan | Benjimyn | Dylan L. | Andre)
+@size[.8m](Luc      | Junior  | Cody   | Kaden    | Seth  | Trey     | Daniel   | Robert)
 Mason    | Gabriel | Rylie  | Courtney | Robyn | Jonte    | Nicholas | Wyatt
          |         | Jordan | Antonio  | JR    | Devon
-)
+
 
 Note:
 Block 1
