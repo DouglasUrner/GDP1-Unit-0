@@ -78,6 +78,8 @@ Hemmingway
 
 ## For sale, baby shoes. Never worn.
 
+Note:
+
 * Take some private think time - what happend, what do you want, to share, what words express it.
 * Gather ideas in your journal.
 * Write a final version
