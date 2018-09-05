@@ -1,59 +1,3 @@
-## Please Find Your Seat
-
-| | | | | | | |
----------|---------|--------|----------|-------|----------|----------|-------
-@size[1m](Dylan B. | Caleb   | Austin | Jin      | Logan | Benjimyn | Dylan L. | Andre)
-@size[.8m](Luc      | Junior  | Cody   | Kaden    | Seth  | Trey     | Daniel   | Robert)
-Mason    | Gabriel | Rylie  | Courtney | Robyn | Jonte    | Nicholas | Wyatt
-         |         | Jordan | Antonio  | JR    | Devon
-
-
-Note:
-Block 1
-
-+++
-
-## Please Find Your Seat
-
-|         |        |         |         |        |         |
--------|---------|--------|---------|---------|--------|---------|--------
-       |         |        |         | Zachary | Joshua | Cameron | Jacob
-Tyler  | Isaac   | Ryan   | Prosper | Beckten | Peter  | Justin  | Terrell
-Skyler | Noah F. | Landon | Inoah   | Ian     | Quinn  | Colby   | Parker
-       |         | Jesse  | Allie   | Noah T. | Kiana  |         |
-
-Note:
-Block 2
-
-+++
-
-## Please Find Your Seat
-
-|         |        |         |         |        |         |
--------|---------|--------|---------|---------|--------|---------|--------
-Jordan  | Alex W. | Alex L.  | Alvin  | Joephery  | Andrew  | Baily  | Cory
-Saint   | Maximus | Payton   | Aaron  | Pasawee   | Angelyko-Linden  | Jessamy  | Kiaran
-Bradley  | Isaiah  | Elijah  | Tyler  | Garrett  | Zachary  | Isabella  | Kristina-Autumn
-
-Note:
-Block 4
-
-+++
-
-## Please Find Your Seat
-
-Note:
-Block 7
-
-+++
-
-## Please Find Your Seat
-
-Note:
-Block 8
-
----
-
 ## Introductions
 
 * Who am I?
@@ -61,9 +5,62 @@ Block 8
 
 Note:
 
+* Phones
+
++++
+
+## Doug Urner
+
+* 13th year teaching
+* 20+ years as software developer and product manager
+* Industrial electrician, photographer, firefighter/EMT
+* Boats, bicycles, building things
+
++++
+
+## Game Design & Programming 1
+
+* Design
+* Programming
+* Games
+
+Note:
+
 ---
 
 ## Design Journals
+
+Note:
+
+* Daily practice - develop the habit of taking notes
+* Learning target
+
++++
+
+## Learning Target
+
+_I can explain what it means to design something and give examples of what a designer might do._
+
+Note:
+
+What I hope you'll know or be able to do by the end of the day.
+
+1. Start on new page (leave 2 blank pages at the front).
+2. Date the page at the top.
+3. Write something the remind you what this entry is about - _1st day of class_.
+4. Write down the learning target.
+
++++
+
+## Why are you here?
+
+In your journal:
+
+* What do you want to learn in this class?
+  - About games?
+  - About design?
+  - About programming?
+* What do you already know?
 
 Note:
 
@@ -91,14 +88,24 @@ Note:
 
 ---
 
-## Journal Reflection
+## Exit Task
+
+* Name / preferred Name
+* How you pronounce your name
+* Something you're good at
+* Something you'd like to get better at
+* Anything else that you'd like me to know
 
 Note:
+
+Pronouns
 
 ---
 
 ## Clean Up
 
 Note:
+
+1.
 
 ---
