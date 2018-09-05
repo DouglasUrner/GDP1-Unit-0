@@ -25,21 +25,30 @@ Block 2
 
 +++
 
-## Please Find Your Seat - Block 4
+## Please Find Your Seat
+
+|         |        |         |         |        |         |
+-------|---------|--------|---------|---------|--------|---------|--------
+Jordan  | Alex W. | Alex L.  | Alvin  | Joephery  | Andrew  | Baily  | Cory
+Saint   | Maximus | Payton   | Aaron  | Pasawee   | Angelyko-Linden  | Jessamy  | Kiaran
+Bradley  | Isaiah  | Elijah  | Tyler  | Garrett  | Zachary  | Isabella  | Kristina-Autumn
 
 Note:
+Block 4
 
 +++
 
-## Please Find Your Seat - Block 7
+## Please Find Your Seat
 
 Note:
+Block 7
 
 +++
 
-## Please Find Your Seat - Block 8
+## Please Find Your Seat
 
 Note:
+Block 8
 
 ---
 
