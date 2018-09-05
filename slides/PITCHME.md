@@ -6,6 +6,8 @@
 Note:
 
 * Phones
+* Food
+* Kindness
 
 +++
 
@@ -91,6 +93,10 @@ Note:
 
 Note:
 
+20 minutes
+
+* Poster
+
 ---
 
 ## What Is Design?
@@ -117,6 +123,9 @@ Pronouns
 
 Note:
 
-1.
+1. Materials back
+1. Make space for next class - keyboards up, mice safe
+1. Look around for stuff
 
----
+
+
