@@ -13,7 +13,7 @@ Block 1
 
 ## Please Find Your Seat
 
-       |         |        |         |         |        |         |
+|         |        |         |         |        |         |
 -------|---------|--------|---------|---------|--------|---------|--------
        |         |        |         | Zachary | Joshua | Cameron | Jacob
 Tyler  | Isaac   | Ryan   | Prosper | Beckten | Peter  | Justin  | Terrell
