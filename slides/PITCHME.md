@@ -93,7 +93,7 @@ Note:
 
 Note:
 
-20 minutes
+**20 minutes**
 
 * Poster
 
@@ -102,6 +102,8 @@ Note:
 ## What Is Design?
 
 Note:
+
+**8 Minutes**
 
 ---
 
@@ -115,6 +117,8 @@ Note:
 
 Note:
 
+**5 Minutes**
+
 Pronouns
 
 ---
@@ -122,6 +126,8 @@ Pronouns
 ## Clean Up
 
 Note:
+
+**3 minutes**
 
 1. Materials back
 1. Make space for next class - keyboards up, mice safe
