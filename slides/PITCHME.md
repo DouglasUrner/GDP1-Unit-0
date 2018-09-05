@@ -1,4 +1,4 @@
-## Please Find Your Seat - Block 1
+## Please Find Your Seat
 | | | | | | | |
 ---------|---------|--------|----------|-------|----------|----------|-------
 Dylan B. | Caleb   | Austin | Jin      | Logan | Benjimyn | Dylan L. | Andre
@@ -7,12 +7,21 @@ Mason    | Gabriel | Rylie  | Courtney | Robyn | Jonte    | Nicholas | Wyatt
          |         | Jordan | Antonio  | JR    | Devon
 
 Note:
+Block 1
 
 +++
 
-## Please Find Your Seat - Block 2
+## Please Find Your Seat
+
+       |         |        |         |         |        |         |
+-------|---------|--------|---------|---------|--------|---------|--------
+       |         |        |         | Zachary | Joshua | Cameron | Jacob
+Tyler  | Isaac   | Ryan   | Prosper | Beckten | Peter  | Justin  | Terrell
+Skyler | Noah F. | Landon | Inoah   | Ian     | Quinn  | Colby   | Parker
+       |         | Jesse  | Allie   | Noah T. | Kiana  |         |
 
 Note:
+Block 2
 
 +++
 
