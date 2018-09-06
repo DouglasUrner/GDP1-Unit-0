@@ -95,7 +95,8 @@ Note:
 
 **20 minutes**
 
-* Poster
+* Game that could be a card game or a board game.
+* Poster - persuade class that this is the project we should take on
 
 ---
 
@@ -124,8 +125,9 @@ Note:
 
 **8 Minutes**
 
-* Clarify idea
+* Clarify problem
 * Gather ideas
+  - Seeds / starting points
 * Pick one - build it
 * Evaluate
 
