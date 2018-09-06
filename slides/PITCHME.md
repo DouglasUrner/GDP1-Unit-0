@@ -41,21 +41,6 @@ Pass out journals - and labels
 
 +++
 
-## Learning Target
-
-_I can explain what it means to design something and give examples of what a designer might do._
-
-Note:
-
-What I hope you'll know or be able to do by the end of the day.
-
-1. Start on new page (leave 2 blank pages at the front).
-2. Date the page at the top.
-3. Write something the remind you what this entry is about - _1st day of class_.
-4. Write down the learning target.
-
-+++
-
 ## Why are you here?
 
 In your journal:
@@ -70,7 +55,7 @@ Note:
 
 ---
 
-## Your summer. Six Words. No more.
+## Your summer. Six Words. No less.
 
 Note:
 
@@ -86,6 +71,21 @@ Note:
 * Gather ideas in your journal.
 * Write a final version
 * Read to members of group
+
+---
+
+## Learning Target
+
+_I can explain what it means to design something and give examples of what a designer might do._
+
+Note:
+
+What I hope you'll know or be able to do by the end of the day.
+
+1. Start on new page (leave 2 blank pages at the front).
+2. Date the page at the top.
+3. Write something the remind you what this entry is about - _1st day of class_.
+4. Write down the learning target.
 
 ---
 
