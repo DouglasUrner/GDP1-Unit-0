@@ -99,11 +99,35 @@ Note:
 
 ---
 
+## Game Concept
+
+* Board or Card Game
+* Poster Pitching Game
+* Roles
+* 20 Minutes!
+
+Note:
+
+**20 minutes**
+
+* Roles:
+  - Notes
+  - Poster
+  - Time Keeper
+  - Facilitator
+
+---
+
 ## What Is Design?
 
 Note:
 
 **8 Minutes**
+
+* Clarify idea
+* Gather ideas
+* Pick one - build it
+* Evaluate
 
 ---
 
