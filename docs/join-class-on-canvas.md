@@ -1,4 +1,4 @@
-Welcome!
+## Welcome!
 
 Now that you're here, I'd like you to practice making a screen capture and submitting an assignment.
 
