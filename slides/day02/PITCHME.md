@@ -72,6 +72,14 @@ Note:
 
 Gallary walk, develop critera for a good concept.
 
++++
+
+# Create Your Canvas Account
+
+canvas.instructure.com
+
+Sign in using the Google button and your skstudent.org login.
+
 ---
 
 ## Learning Target
