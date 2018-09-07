@@ -19,6 +19,8 @@ Note:
 
 Remind to start notes.
 
+---
+
 ## Reviewing Notes
 
 * What did we do last class?
