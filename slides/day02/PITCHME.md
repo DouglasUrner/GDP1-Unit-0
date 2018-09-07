@@ -85,3 +85,5 @@ Note:
 ---
 
 ## Clean Up
+
+* Please leave notebooks on the table by the door.
