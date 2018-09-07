@@ -80,6 +80,8 @@ canvas.instructure.com
 
 Sign in using the Google button and your skstudent.org login.
 
+Then go to our class: canvas.instructure.com/enroll/LA8A67
+
 ---
 
 ## Learning Target
