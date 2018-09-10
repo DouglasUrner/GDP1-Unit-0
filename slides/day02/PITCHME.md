@@ -24,7 +24,7 @@ Remind to start notes.
 ## Reviewing Notes
 
 * What did we do last class?
-* What was our goal?
+* What was our learning target?
 * Did we get there?
 
 Note:
