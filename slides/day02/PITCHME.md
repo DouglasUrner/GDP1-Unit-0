@@ -63,8 +63,6 @@ Consider using some space at the beginning or end of the book for a list of goal
 
 ![Canvas login](slides/day02/images/canvas-login-screen.jpg)
 
-Then go to our class: canvas.instructure.com/enroll/LA8A67
-
 Note:
 
 ---
