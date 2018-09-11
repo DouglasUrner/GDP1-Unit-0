@@ -65,6 +65,8 @@ In Chrome go to: canvas.instructure.com
 
 Sign in using the Google button and your skstudent.org login.
 
+![Canvas login](images/canvas-login-screen.jpg)
+
 Then go to our class: canvas.instructure.com/enroll/LA8A67
 
 Note:
