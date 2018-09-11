@@ -8,9 +8,19 @@ Note:
 
 ---
 
+### Learning Target
+
+Strategies for finding information about methods of work in game development.
+
+Note:
+
+---
+
 ### Game Makers At Work
 
 Note:
+
+Private think time, then group work time. Before releasing screens.
 
 ---
 
@@ -37,6 +47,8 @@ Make notes as you work:
 * Other leads and clues
 
 Note:
+
+Goal is to find interesting and useful ideas about how games are created. Especially about how designers come up with ideas and turn them into games. You're not done till the period is over.
 
 Document process of tracking down surviv.io
 
