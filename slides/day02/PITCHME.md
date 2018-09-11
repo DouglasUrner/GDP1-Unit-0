@@ -59,9 +59,7 @@ Consider using some space at the beginning or end of the book for a list of goal
 
 ---
 
-### Creating Your Canvas Account
-
-In Chrome go to: canvas.instructure.com
+### In Chrome go to: canvas.instructure.com
 
 ![Canvas login](slides/day02/images/canvas-login-screen.jpg)
 
