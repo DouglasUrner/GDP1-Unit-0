@@ -7,3 +7,9 @@ Decide on a goal that will help to make your developer's journal a better tool f
 * **T**ime-bounded: give yourself a deadline.
 
 After you formulate your goal, write it on the first page of your notebook so that you can easily find it.
+
+### Examples
+
+I will develop the habit of note taking by starting my notes at the begining of class every day. By the end of the semester I want to initiate taking notes on my own.
+
+During group work I will take notes during discussions. By the end of the quarter, my notes will usually include something about each person's ideas.
