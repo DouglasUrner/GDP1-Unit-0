@@ -6,6 +6,6 @@ Who are the people (*not* the company or studio) who developed one of your favor
 
 1. Briefly describes the game **and** lists the designer and programming teams – the names of the actual people who did the work. On a big project, list either the team leads or the developers who have an online presence focused on the game development process.
 
-2. Then, search for articles, interviews, or other places where they describe their process. Add links to those materials to your document.
+2. Then, search for articles, interviews, or other places where they describe their process. Read or listen to one of them and add a quote to the document that you find interesting or helpful. Cite the article that you read.
 
 **Submit a PDF of your document.**
